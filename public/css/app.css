@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito);.footer-class {
+  font-size: 1em;
+  text-align: center;
+  padding: 1em 0;
+  background-color: gold;
+  color: black;
+  margin: 0;
+}
+
+a.more,
+.more {
+  color: black;
+  background: gold;
+  padding: 0.5em 1em;
+  display: inline-block;
+  text-decoration: none;
+  border: 1px solid transparent;
+}
+
+a.more:hover,
+.more:hover {
+  background: #ddba00;
+}
+
+.header-top {
+  background: #fff;
+  padding: 2em 0;
+  border-bottom: 1px solid #D3D2D2;
+}
+
+.head-top {
+  padding: 0 15px;
+}
+
+.logo {
+  float: left;
+}
+
+.mb {
+  margin-bottom: 10px;
+}
+
+.form-control {
+  border: 1px solid #A09F9F;
+  color: black;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.content-holder {
+  padding: 3em 0;
+}
+
+.form-group a.more {
+  cursor: pointer;
+  float: right;
+}
+
+.form-group a.more.fl {
+  float: left;
+}
+
+img.img-responsive.sin-on {
+  max-width: 300px;
+}
+
+.single-inline {
+  margin-top: 50px;
+}
+
+.single-inline .contact-top-inner {
+  margin-top: 20px;
+}
+
